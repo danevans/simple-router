@@ -1,0 +1,20 @@
+{
+  "name": "basic-structure-router",
+  "version": "0.1.0",
+  "description": "A functional router which only uses basic JavaScript strings, arrays, and functions.",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "router",
+    "routing",
+    "functional",
+    "fp"
+  ],
+  "author": "Danston Evanshire",
+  "license": "ISC",
+  "devDependencies": {
+    "qunitjs": "^2.1.1"
+  }
+}
